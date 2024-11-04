@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,200;1,400;1,500&display=swap');
+*{
+   
+}
+
+
+#header{
+    
+    color: #fff;
+    background-color: #363636;/*hồi sửa này bằng ảnh*/
+}
+
+#main-content{
+	display: flex;
+	
+}
+#content {
+	flex-basis: 100%;
+    max-width: 600px; /* Điều chỉnh chiều rộng tối đa của nội dung */
+    margin: 0 auto; /* Căn giữa nội dung trên trang */
+    line-height: 1.5; /* Điều chỉnh độ cao dòng */
+    padding: 10px; /* Tạo khoảng cách giữa nội dung và khung bên ngoài */
+}
+
+h1, h2, h3, p {
+    margin-bottom: 20px; /* Khoảng cách giữa các phần tử */
+}
+
+h1, h2 {
+    color: #333; /* Màu chữ cho tiêu đề */
+}
+
+h1 {
+    font-size: 24px; /* Kích thước chữ cho tiêu đề h1 */
+}
+
+h2 {
+    font-size: 20px; /* Kích thước chữ cho tiêu đề h2 */
+}
+
+h3 {
+    font-size: 16px; /* Kích thước chữ cho tiêu đề h3 */
+}
+
+p {
+    font-size: 14px; /* Kích thước chữ cho đoạn văn bản */
+}
+
+
+

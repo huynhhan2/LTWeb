@@ -1,0 +1,29 @@
+/* Lienhe.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+
+
+#main-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adjust as needed */
+}
+
+#content {
+    flex-basis: 60%;
+    max-width: 600px;
+    line-height: 1.5;
+    padding: 10px;
+    margin-top: 20px; /* Add margin-top to adjust space between header and content */
+}
+
+
+
+#footer {
+    margin-top: 20px; /* Adjust as needed */
+}
